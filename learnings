@@ -1,0 +1,104 @@
+github.com
+
+create account here
+repository  -- public
+
+pycharm in windows (linux)
+wrote first.py file
+
+commit  - commit from pycharm in Windows environment
+push
+
+
+VSCode in windows (linux)
+write / update the same first.py file
+
+commit  - commit from vscode in linux environment
+push
+
+
+ASK -
+1. Create github account
+2. create a repository (private) (notes learnt today)
+3. create a repository (public)
+4. create a PS#.py file
+    function file - print some data
+5. commit this to SRINIVAS'S repository
+
+
+push
+commit
+
+Expectation from this team
+Evaluation carries marks
+
+commit your learnings to myreposiroty - mylearnings10thapr20211
+commits
+
+pycharm / vscode
+code   --> quality / pep8 by IDE
+
+
+10th Apr 2021....
+6 months new project
+
+reuse the same .py file
+
+reuse
+
+
+II
+one of my friend was in a project 2019
+.py file  header.py
+
+
+
+
+
+
+
+2021 apr   srinivas has to use this header.py
+
+git...vcs
+
+
+
+Srinivas
+    (deleted) dir --> mypythonproject --> proj1.py, proj2.py.... projn.py   (github  --private account)
+    2020 jan 1st
+    project A   (public)
+        local space  (git add) (public account)
+            proj1.py, proj2.py.... projn.py
+        public space  (git commit) (public account)
+            PS # 1  (space)
+                proj1.py, proj2.py.... projn.py --> accesible
+            PS # 2  (space)
+                proj1.py, proj2.py.... projn.py
+                    proj2.py   dependency on my proj1.py
+
+                    proj1.py    myfriend proj2.py   sametime
+
+    jan 2021
+        project is ready to go live
+
+        public space (from previous) (git push)
+            merge proj12.py
+                public
+                    proj12.exe (.apk)
+
+    may 2021 (saw some issues)
+        take the proj12.exe (git pull)
+            checkout
+                public space
+                local space
+
+                working / fix
+     git add, git commit, git push
+        update_proj12.exe
+            live
+
+
+    printer (code to do printing job)
+    project # 1 - scan the data
+    projrct # 2 - print the date on the A4 size sheet
+                    power
